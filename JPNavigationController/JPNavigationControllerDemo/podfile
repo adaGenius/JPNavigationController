@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+
+target "JPNavigationControllerDemo" do
+
+pod 'JPVideoPlayer', '~> 2.4.0'
+
+end
